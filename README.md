@@ -2,7 +2,9 @@
 A curated list of LLMs and tools 
 
 ## LLM Inference
+- [ggml](https://github.com/ggml-org): AI inference at the edge
 - [llama.cpp](https://github.com/ggml-org/llama.cpp): LLM inference in C++
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 - [gemma.cpp](https://github.com/google/gemma.cpp): lightweight, standalone C++ inference engine for Google's Gemma models
 
 ## Tiny LLMs
