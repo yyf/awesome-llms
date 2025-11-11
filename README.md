@@ -11,3 +11,6 @@ A curated list of LLMs and tools
 - [TinyLlama](https://github.com/jzhang38/TinyLlama): The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens
 - [BitNet](https://github.com/microsoft/BitNet): Official inference framework for 1-bit LLMs
 - [awesome_role_of_small_models](https://github.com/tigerchen52/awesome_role_of_small_models): a curated list of the role of small models in the LLM era
+
+## Local LLM
+- [GPT4ALL](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
