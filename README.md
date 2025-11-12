@@ -14,3 +14,4 @@ A curated list of LLMs and tools
 
 ## Local LLM
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [Distributed-Llama](https://github.com/b4rtaz/distributed-llama): Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
