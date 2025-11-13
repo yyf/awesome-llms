@@ -19,3 +19,6 @@ A curated list of LLMs and tools
 
 ## LLM Debugging Assistant
 - [ChatDBG](https://github.com/plasma-umass/ChatDBG): ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
+
+## LLM Network Analysis
+- [WireMCP](https://github.com/0xKoda/WireMCP): An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
