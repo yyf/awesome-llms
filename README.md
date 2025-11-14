@@ -17,6 +17,7 @@ A curated list of LLMs and tools
 - [GPT4ALL](https://github.com/nomic-ai/gpt4all): GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Distributed-Llama](https://github.com/b4rtaz/distributed-llama): Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
 - [libllm](https://github.com/ling0322/libllm): Efficient inference of large language models.
+- [chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app
 
 ## LLM Debugging Assistant
 - [ChatDBG](https://github.com/plasma-umass/ChatDBG): ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
