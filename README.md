@@ -3,6 +3,7 @@ A curated list of LLMs and tools
 
 ## LLM Inference
 - [ggml](https://github.com/ggml-org): AI inference at the edge
+- [gguf](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md):  file format for storing models for inference with GGML and executors based on GGML. GGUF is a binary format that is designed for fast loading and saving of models, and for ease of reading. 
 - [llama.cpp](https://github.com/ggml-org/llama.cpp): LLM inference in C++
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 - [gemma.cpp](https://github.com/google/gemma.cpp): lightweight, standalone C++ inference engine for Google's Gemma models
