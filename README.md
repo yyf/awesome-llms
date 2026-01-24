@@ -8,6 +8,7 @@ A curated list of LLMs and tools
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 - [gemma.cpp](https://github.com/google/gemma.cpp): lightweight, standalone C++ inference engine for Google's Gemma models
 - [GenZ-LLM-Analyzer](https://github.com/abhibambhaniya/GenZ-LLM-Analyzer): LLM Inference analyzer for different hardware platforms
+- [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ## Tiny LLMs
 - [TinyLlama](https://github.com/jzhang38/TinyLlama): The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens
