@@ -20,6 +20,7 @@ A curated list of LLMs and tools
 - [Distributed-Llama](https://github.com/b4rtaz/distributed-llama): Distributed LLM inference. Connect home devices into a powerful cluster to accelerate LLM inference. More devices means faster inference.
 - [libllm](https://github.com/ling0322/libllm): Efficient inference of large language models.
 - [chat-ui](https://github.com/huggingface/chat-ui): Open source codebase powering the HuggingChat app
+- [llmfit](https://github.com/AlexsJones/llmfit): A terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. 
 
 ## LLM Debugging Assistant
 - [ChatDBG](https://github.com/plasma-umass/ChatDBG): ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
